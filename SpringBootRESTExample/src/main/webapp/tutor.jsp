@@ -9,7 +9,7 @@
           <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body ng-app="MyTutorManagement" ng-controller="TutorManagementController">
-<h1>Tutor Form</h1>
+<h2>Tutor Form</h2>
     <form ng-submit="submitTutorData()">
         <table>
         
